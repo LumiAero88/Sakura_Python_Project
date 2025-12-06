@@ -1,6 +1,6 @@
 # 🌸 Sakura Bloom Animation
 
-![Vorschau der Animation](Screenshot 2025-12-06 171846.png) 
+![Vorschau der Animation](Screenshot%202025-12-06%20171846.png)
 
 A calming, generative animation of falling Cherry Blossoms (Sakura), written in Python.
 
